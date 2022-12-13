@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2178b6"],{c6d1:function(n,t,u){"use strict";u.r(t);var r=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,t=n._self._c;return t("div",[t("h1",[n._v("tsiklauri hystory")])])}],c=u("2877"),i={},e=Object(c["a"])(i,r,s,!1,null,null,null);t["default"]=e.exports}}]);
+//# sourceMappingURL=chunk-2d2178b6.0e8d221e.js.map
